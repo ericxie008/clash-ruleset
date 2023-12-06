@@ -471,3 +471,6 @@ payload:
   - "+.music.qq.com"
   - "+.y.qq.com"
   - "+.y.gtimg.cn"
+  # 百度贴吧
+  - "+.tieba.com"
+  - "+.tiebaimg.com"
