@@ -386,6 +386,9 @@ payload:
   - "+.liepin.com"
   - "+.lietou.com"
   - "+.lietou-static.com"
+    # boss直聘
+  - "+.bosszhipin.com"
+  - "+.zhipin.com"
   # 富途证券
   - "+.futunn.com"
   # 贴吧
